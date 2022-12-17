@@ -6,11 +6,11 @@
 
 Published August, 2022
 
-[<img src="./FSFEBookCover.png" width="248">](leanpub.com/feature-selection-machine-learning-feature-engine)
+[<img src="./FSFEBookCover.png" width="248">](https://leanpub.com/feature-selection-machine-learning-feature-engine)
 
 ## Links
 
-- [Book](leanpub.com/feature-selection-machine-learning-feature-engine)
+- [Book](https://leanpub.com/feature-selection-machine-learning-feature-engine)
 
 
 ## Table of Contents
